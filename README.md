@@ -1,2 +1,2 @@
 # hiworld
-Hellow world by other words
+Hello world by other words
